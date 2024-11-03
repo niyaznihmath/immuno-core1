@@ -2,7 +2,7 @@
 ### clone this repo
 
 ```bash
-git clone https://github.com/rosaak/ny-immuno-sanger.git
+git clone https://github.com/niyaznihmath/immuno-core1.git
 cd ny-immuno-sanger 
 ```
 
