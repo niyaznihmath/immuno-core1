@@ -3,7 +3,7 @@
 
 ```bash
 git clone https://github.com/niyaznihmath/immuno-core1.git
-cd ny-immuno-sanger 
+cd immuno-core1 
 ```
 
 ### setting up the env
